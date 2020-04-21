@@ -2,7 +2,7 @@
 
 ## by nelshh @ xda-developers
 
-This Magisk module installs the latest stable version of CMatrix to the target system
+This Magisk module installs the latest stable version of nyancat to the target system
 
 ## Change Log
 
